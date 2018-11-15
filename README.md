@@ -16,11 +16,11 @@ This integration was written in an asynchronous/threaded manner to allow the plu
 
 If you're facing issues with and this documentation isn't helping you please let us know : support@quixel.se . We'll help you get things fixed ASAP.
 
+More information on how can you utilize Bridge Custom Exports is available here: https://docs.google.com/document/d/1paWHYllbPVuGgFi6plvsETZrFo4LaZVZAHV7HNRdiTk/edit
+
 ## Example
 
 This integration gives you an example method that reads the data from the json and prints the result on the console. 
-
-We have also included a sample JSON file that demonstrates the format of exported JSON data from Birdge.
 
 ## Notes:
 
