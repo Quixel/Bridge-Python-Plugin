@@ -18,6 +18,8 @@ If you're facing issues with and this documentation isn't helping you please let
 
 This integration gives you an example method that reads the data from the json and prints the result on the console. 
 
+We have also included a sample JSON file that demonstrates the format of exported JSON data from Birdge.
+
 ##Notes:
 
 You must have Python installed before using this plugin.
