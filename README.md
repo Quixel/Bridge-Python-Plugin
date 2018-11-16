@@ -2,7 +2,7 @@
 
 Quixel AB - Megascans Project
 
-Quixel : https://quixel.com
+Quixel : https://quixel.se
 
 ## Bridge Python Plugin
 
