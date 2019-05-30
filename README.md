@@ -16,7 +16,8 @@ This integration was written in an asynchronous/threaded manner to allow the plu
 
 If you're facing issues with and this documentation isn't helping you please let us know : support@quixel.se . We'll help you get things fixed ASAP.
 
-More information on Bridge custom exports can be found here: https://docs.google.com/document/d/1paWHYllbPVuGgFi6plvsETZrFo4LaZVZAHV7HNRdiTk/
+More information on Bridge custom exports can be found here:
+https://docs.google.com/document/d/14g6LsFS-pnPGdI-FiCsWpMIvpaCJUJweyJD9SgaOjAo/
 
 ## Example
 
